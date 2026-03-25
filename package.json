@@ -1,6 +1,6 @@
 {
   "name": "com.unityessentials.networking.persistence",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "Networking Persistence",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
